@@ -1,5 +1,11 @@
-# 3D-Packing-Solver
+# ND-Packing-Solver
 Implementation of reducing 3D polymino packing puzzle to the exact cover problem in python.
 
+Exact cover is solved via [xcover](https://github.com/johnrudge/xcover) python package.
+
+## Why? 
+
+I tried to solve 
+
 Inspired by [polyomino-solver](https://github.com/cemulate/polyomino-solver).
-You can test puzzles from [puzzlewillbeplayed.com]https://puzzlewillbeplayed.com/.
+Test puzzles from [puzzlewillbeplayed]https://puzzlewillbeplayed.com/.
