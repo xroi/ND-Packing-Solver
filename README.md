@@ -1,10 +1,10 @@
 # ND-Packing-Solver
-Implementation of reducing ND polymino packing puzzle to the exact cover problem in python.
+Implementation of reducing ND polymino packing puzzle to the exact cover problem in python.  
 
-Inspired by [polyomino-solver](https://github.com/cemulate/polyomino-solver).
-Test puzzles from [puzzlewillbeplayed](https://puzzlewillbeplayed.com).
-Y25 info from [Herbert Kociemba](https://kociemba.org/themen/125puzzle/index.html#reference).
-Exact cover is solved via [xcover](https://github.com/johnrudge/xcover) python package.
+Inspired by [polyomino-solver](https://github.com/cemulate/polyomino-solver).  
+Test puzzles from [puzzlewillbeplayed](https://puzzlewillbeplayed.com).  
+Y25 info from [Herbert Kociemba](https://kociemba.org/themen/125puzzle/index.html#reference).  
+Exact cover is solved via [xcover](https://github.com/johnrudge/xcover) python package.  
 
 Note: Exact cover problems are NP-complete which means solve times can get very long very quickly as problems get larger.
 
