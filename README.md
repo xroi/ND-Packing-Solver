@@ -14,13 +14,13 @@ I tried to solve the "25Y" or "125 cube" puzzle. The puzzle consists of 25 of th
 
 Puzzle: 
 
-![](https://github.com/xroi/ND-Packing-Solver/blob/master/assets/125puzBig.jpg)
+![](https://github.com/xroi/ND-Packing-Solver/blob/main/assets/125puzBig.jpg)
 
 Some solutions (I found 60672 solutions, or 1264 if not counting symmetries):
 
-![](https://github.com/xroi/ND-Packing-Solver/blob/master/assets/sol1.png)
-![](https://github.com/xroi/ND-Packing-Solver/blob/master/assets/sol2.png)
-![](https://github.com/xroi/ND-Packing-Solver/blob/master/assets/sol3.png)
+![](https://github.com/xroi/ND-Packing-Solver/blob/main/assets/sol1.png)
+![](https://github.com/xroi/ND-Packing-Solver/blob/main/assets/sol2.png)
+![](https://github.com/xroi/ND-Packing-Solver/blob/main/assets/sol3.png)
 
 ## >3D Packing
 
