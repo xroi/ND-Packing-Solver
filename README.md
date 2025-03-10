@@ -1,5 +1,5 @@
 # ND-Packing-Solver
-Implementation of reducing ND polymino packing puzzle to the exact cover problem in python.  
+Implementation of reducing N-Dimensional polyomino packing puzzles to the exact cover problem in python.
 
 Inspired by [polyomino-solver](https://github.com/cemulate/polyomino-solver).  
 Test puzzles from [puzzlewillbeplayed](https://puzzlewillbeplayed.com).  
